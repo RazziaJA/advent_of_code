@@ -1,0 +1,4 @@
+{
+  "name": "My C++ Project DevBox",
+  "image": "ghcr.io/jakoch/cpp-devbox:bookworm-20241201-sha-df909b2"
+}
