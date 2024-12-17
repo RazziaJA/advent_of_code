@@ -1,4 +1,6 @@
 {
-  "name": "My C++ Project DevBox",
-  "image": "ghcr.io/jakoch/cpp-devbox:bookworm-20241201-sha-df909b2"
+  // https://github.com/devcontainers/images/tree/main/src/python
+  "name": "My Python 3.12 Devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12-bookworm",
+  "remoteUser": "vscode"
 }
